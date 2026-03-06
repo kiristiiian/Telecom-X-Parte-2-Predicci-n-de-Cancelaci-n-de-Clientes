@@ -1,0 +1,11 @@
+#Conclusión
+
+El desarrollo de este proyecto permitió aplicar técnicas de preparación de datos y modelos de machine learning con el objetivo de predecir la cancelación de clientes en Telecom X. A partir del dataset previamente tratado, se realizaron procesos de transformación de variables, análisis exploratorio y entrenamiento de modelos de clasificación para identificar patrones asociados al churn.
+
+Los resultados del análisis muestran que ciertas variables tienen una mayor influencia en la probabilidad de cancelación. Entre los factores más relevantes se destacan el tipo de contrato, los cargos mensuales y el tiempo de permanencia del cliente. En particular, los clientes con contratos mensuales, mayores costos de servicio y menor antigüedad presentan una mayor probabilidad de cancelar el servicio.
+
+La evaluación de los modelos mediante métricas como accuracy, precision, recall y F1-score permitió analizar su desempeño y comparar su capacidad de predicción. Este proceso es fundamental para comprender qué modelo ofrece mejores resultados y qué tan bien puede generalizar a nuevos datos.
+
+A partir de los resultados obtenidos, se pueden proponer algunas acciones estratégicas orientadas a la retención de clientes, como incentivar contratos de mayor duración, implementar programas de fidelización y desarrollar estrategias preventivas para clientes con mayor riesgo de cancelación.
+
+En conjunto, este proyecto demuestra cómo el uso de técnicas de análisis de datos y machine learning puede ayudar a las empresas a comprender mejor el comportamiento de sus clientes y apoyar la toma de decisiones basadas en datos.
